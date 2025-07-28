@@ -96,5 +96,5 @@ Use the provided parkinsons_sample.wav or upload your own .wav voice file for te
 👨‍💻 Author
 Shaik Farhan
 AI & Data Science Enthusiast | 2025 Graduate in CSE (AI/ML)
-📫 LinkedIn
+📫 https://www.linkedin.com/in/farhan-shaik-119a99247/
 
